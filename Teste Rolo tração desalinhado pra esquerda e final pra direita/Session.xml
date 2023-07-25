@@ -1,0 +1,9 @@
+<Session>
+  <SessionInformation Name="Teste Rolo tração desalinhado pra esquerda e final pra direita" Date="2023-07-21 16:47:07" Duration="00:00:30.000" />
+  <ApplicationInformation ApplicationName="NGIMU Synchronised Network Manager" ApplicationVersion="1.18.7918.40970" ApiVersion="1.18.7918.40970" />
+  <UserInformation UserName="ricar" MachineName="DESKTOP-ULFMAKI" />
+  <Devices>
+    <Device SerialNumber="00424B93" DeviceName="NGIMU" ConnectionType="Udp" DirectoryName="NGIMU - 00424B93" />
+    <Device SerialNumber="004244B8" DeviceName="NGIMU" ConnectionType="Udp" DirectoryName="NGIMU - 004244B8" />
+  </Devices>
+</Session>

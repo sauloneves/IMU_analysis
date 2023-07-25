@@ -1,0 +1,14 @@
+<Device>
+  <DeviceInformation DeviceName="NGIMU" SerialNumber="00424B93" FirmwareVersion="v1.15 (Apr 26 2021 10:29:52)" BootloaderVersion="v2.0 (Mar 27 2019 15:56:10)" HardwareVersion="v1.6 (February)" />
+  <ConnectionInformation ConnectionType="Udp" SendIPAddress="192.168.0.101" SendPort="9000" AdapterIPAddress="192.168.0.102" ReceivePort="8101" AdapterName="Intel(R) Wireless-AC 9560" />
+  <TimeStamps First="2023-07-21 16:46:45.302" Last="2023-07-21 16:46:56.760" TimeSpan="00:00:11.458" />
+  <FilesCreated>
+    <File Name="sensors.csv" Messages="572" />
+    <File Name="quaternion.csv" Messages="572" />
+    <File Name="rssi.csv" Messages="23" />
+    <File Name="temperature.csv" Messages="11" />
+    <File Name="humidity.csv" Messages="11" />
+    <File Name="battery.csv" Messages="11" />
+  </FilesCreated>
+  <Statistics BytesReceived="10291856" PacketsReceived="60769" BundlesReceived="188350" MessagesReceived="127662" ReceiveErrors="0" />
+</Device>
